@@ -9,8 +9,12 @@ import org.springframework.test.context.junit4.SpringRunner;
 @SpringBootTest
 public class VegetabletradeApplicationTests {
 
+
+
+
 	@Test
 	public void contextLoads() {
 	}
+
 
 }
